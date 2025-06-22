@@ -1,0 +1,11 @@
+#container {
+  padding: 2rem;
+
+  .section-title {
+    color: green;
+  }
+
+  .list-title {
+    color: blue;
+  }
+}
